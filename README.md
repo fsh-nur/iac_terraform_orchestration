@@ -1,3 +1,13 @@
+# Terraform Architecture
+
+![diagram](https://github.com/fsh-nur/iac_terraform_orchestration/assets/129324316/74701430-3f9d-4e23-b8f4-170d0410ef80)
+
+
+
+
+
+
+
 ## Installation of Terraform
 
 1. Open you `Windows Powershell` and run as `admin`
@@ -103,3 +113,6 @@ resource "aws_instance" "app_instance"{
 ```
 3. Enter the command `terraform plan`, this will check if the syntax is correct
 4. Enter `terraform apply` this will launch the instance according to how you have configured the instance using the ami id which we entered.
+5. Use `terraform destroy` to terminate the VM
+
+
