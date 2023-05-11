@@ -56,3 +56,14 @@ Global options (use these before the subcommand, if any):
 
 
 ```
+
+5. Configure the AWS access keys in your environmental variables as user in your Windows.
+  1. Type `env` after you touch the windows 
+  2. Click ` Edit the system environmental variables`
+  3. Click `Environmental`
+  ![env variable](https://github.com/fsh-nur/iac_terraform_orchestration/assets/129324316/e52c0783-0546-446d-8ae6-726c06dac920)
+Variables`
+  4. Click `New` and add you access key and secret access key naming them both `AWS_ACCESS_KEY_ID` and `AWS_SECRET_KEY_ID`
+
+
+  
