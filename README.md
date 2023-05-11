@@ -77,7 +77,8 @@ Global options (use these before the subcommand, if any):
 ```
 nano main.tf
 ```
-3. Enter the following 
+2. Enter `terraform init` to initialise terraform to allow us to use commands
+2. Enter the following in the `main.tf` file
 
 ```
 # Write a ascript to launch resources on the cloud 
@@ -100,3 +101,5 @@ resource "aws_instance" "app_instance"{
 }
 
 ```
+3. Enter the command `terraform plan`, this will check if the syntax is correct
+4. Enter `terraform apply` this will launch the instance according to how you have configured the instance using the ami id which we entered.
