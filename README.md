@@ -1,6 +1,7 @@
 # Terraform Architecture
 
-![diagram](https://github.com/fsh-nur/iac_terraform_orchestration/assets/129324316/74701430-3f9d-4e23-b8f4-170d0410ef80)
+![diagram](https://github.com/fsh-nur/iac_terraform_orchestration/assets/129324316/74701430-3f9d-4e23-b8f4-170d0410ef80)![image](https://github.com/fsh-nur/iac_terraform_orchestration/assets/129324316/5ebe532e-667c-40b9-b5a7-b050f96353bc)
+
 
 
 
